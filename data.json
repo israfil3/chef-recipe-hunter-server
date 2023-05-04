@@ -11,9 +11,6 @@
        {
          "name": "Kung Pao Chicken",
          "ingredients": [
-           "chicken breast",
-           "cornstarch",
-           "soy sauce",
            "dried red chili peppers",
            "roasted peanuts",
            "scallions",
@@ -29,12 +26,6 @@
        {
          "name": "Hot and Sour Soup",
          "ingredients": [
-           "chicken broth",
-           "tofu",
-           "dried wood ear mushrooms",
-           "bamboo shoots",
-           "eggs",
-           "cornstarch",
            "rice vinegar",
            "soy sauce",
            "sesame oil",
@@ -65,10 +56,6 @@
        {
          "name": "Kung Pao Chicken",
          "ingredients": [
-           "chicken breast",
-           "cornstarch",
-           "soy sauce",
-           "dried red chili peppers",
            "roasted peanuts",
            "scallions",
            "garlic",
@@ -87,13 +74,8 @@
            "tofu",
            "dried wood ear mushrooms",
            "bamboo shoots",
-           "eggs",
-           "cornstarch",
-           "rice vinegar",
-           "soy sauce",
-           "sesame oil",
-           "white pepper",
-           "green onions"
+           "eggs"
+
          ],
          "cooking_method": "1. Soak the dried wood ear mushrooms in warm water until they are soft.\n2. Cut the tofu and bamboo shoots into small cubes.\n3. Beat the eggs in a bowl.\n4. Mix cornstarch and water to create a slurry.\n5. Heat chicken broth in a pot until boiling.\n6. Add tofu, bamboo shoots, and mushrooms and simmer for 5 minutes.\n7. Add the beaten eggs and stir.\n8. Add the cornstarch slurry and stir until the soup thickens.\n9. Add rice vinegar, soy sauce, sesame oil, white pepper, and green onions for flavor.\n10. Serve hot.",
          "rating": 4.2,
@@ -122,13 +104,7 @@
            "chicken breast",
            "cornstarch",
            "soy sauce",
-           "dried red chili peppers",
-           "roasted peanuts",
-           "scallions",
-           "garlic",
-           "ginger",
-           "rice vinegar",
-           "sesame oil"
+           "dried red chili peppers"
          ],
          "cooking_method": "1. Cut the chicken breast into bite-sized pieces and marinate with cornstarch and soy sauce.\n2. Stir-fry the dried red chili peppers, garlic, and ginger until fragrant.\n3. Add the marinated chicken and stir-fry until cooked.\n4. Add roasted peanuts and scallions.\n5. Add rice vinegar and sesame oil for flavor.\n6. Serve hot.",
          "rating": 4.5,
@@ -142,12 +118,8 @@
            "dried wood ear mushrooms",
            "bamboo shoots",
            "eggs",
-           "cornstarch",
-           "rice vinegar",
-           "soy sauce",
-           "sesame oil",
-           "white pepper",
-           "green onions"
+           "cornstarch"
+
          ],
          "cooking_method": "1. Soak the dried wood ear mushrooms in warm water until they are soft.\n2. Cut the tofu and bamboo shoots into small cubes.\n3. Beat the eggs in a bowl.\n4. Mix cornstarch and water to create a slurry.\n5. Heat chicken broth in a pot until boiling.\n6. Add tofu, bamboo shoots, and mushrooms and simmer for 5 minutes.\n7. Add the beaten eggs and stir.\n8. Add the cornstarch slurry and stir until the soup thickens.\n9. Add rice vinegar, soy sauce, sesame oil, white pepper, and green onions for flavor.\n10. Serve hot.",
          "rating": 4.2,
@@ -178,10 +150,6 @@
            "soy sauce",
            "dried red chili peppers",
            "roasted peanuts",
-           "scallions",
-           "garlic",
-           "ginger",
-           "rice vinegar",
            "sesame oil"
          ],
          "cooking_method": "1. Cut the chicken breast into bite-sized pieces and marinate with cornstarch and soy sauce.\n2. Stir-fry the dried red chili peppers, garlic, and ginger until fragrant.\n3. Add the marinated chicken and stir-fry until cooked.\n4. Add roasted peanuts and scallions.\n5. Add rice vinegar and sesame oil for flavor.\n6. Serve hot.",
@@ -191,10 +159,6 @@
        {
          "name": "Hot and Sour Soup",
          "ingredients": [
-           "chicken broth",
-           "tofu",
-           "dried wood ear mushrooms",
-           "bamboo shoots",
            "eggs",
            "cornstarch",
            "rice vinegar",
@@ -231,12 +195,7 @@
            "cornstarch",
            "soy sauce",
            "dried red chili peppers",
-           "roasted peanuts",
-           "scallions",
-           "garlic",
-           "ginger",
-           "rice vinegar",
-           "sesame oil"
+           "roasted peanuts"
          ],
          "cooking_method": "1. Cut the chicken breast into bite-sized pieces and marinate with cornstarch and soy sauce.\n2. Stir-fry the dried red chili peppers, garlic, and ginger until fragrant.\n3. Add the marinated chicken and stir-fry until cooked.\n4. Add roasted peanuts and scallions.\n5. Add rice vinegar and sesame oil for flavor.\n6. Serve hot.",
          "rating": 4.5,
@@ -249,13 +208,8 @@
            "tofu",
            "dried wood ear mushrooms",
            "bamboo shoots",
-           "eggs",
-           "cornstarch",
-           "rice vinegar",
-           "soy sauce",
-           "sesame oil",
-           "white pepper",
-           "green onions"
+           "eggs"
+           
          ],
          "cooking_method": "1. Soak the dried wood ear mushrooms in warm water until they are soft.\n2. Cut the tofu and bamboo shoots into small cubes.\n3. Beat the eggs in a bowl.\n4. Mix cornstarch and water to create a slurry.\n5. Heat chicken broth in a pot until boiling.\n6. Add tofu, bamboo shoots, and mushrooms and simmer for 5 minutes.\n7. Add the beaten eggs and stir.\n8. Add the cornstarch slurry and stir until the soup thickens.\n9. Add rice vinegar, soy sauce, sesame oil, white pepper, and green onions for flavor.\n10. Serve hot.",
          "rating": 4.2,
@@ -285,12 +239,8 @@
            "cornstarch",
            "soy sauce",
            "dried red chili peppers",
-           "roasted peanuts",
-           "scallions",
-           "garlic",
-           "ginger",
-           "rice vinegar",
-           "sesame oil"
+           "roasted peanuts"
+           
          ],
          "cooking_method": "1. Cut the chicken breast into bite-sized pieces and marinate with cornstarch and soy sauce.\n2. Stir-fry the dried red chili peppers, garlic, and ginger until fragrant.\n3. Add the marinated chicken and stir-fry until cooked.\n4. Add roasted peanuts and scallions.\n5. Add rice vinegar and sesame oil for flavor.\n6. Serve hot.",
          "rating": 4.5,
@@ -303,13 +253,7 @@
            "tofu",
            "dried wood ear mushrooms",
            "bamboo shoots",
-           "eggs",
-           "cornstarch",
-           "rice vinegar",
-           "soy sauce",
-           "sesame oil",
-           "white pepper",
-           "green onions"
+           "eggs" 
          ],
          "cooking_method": "1. Soak the dried wood ear mushrooms in warm water until they are soft.\n2. Cut the tofu and bamboo shoots into small cubes.\n3. Beat the eggs in a bowl.\n4. Mix cornstarch and water to create a slurry.\n5. Heat chicken broth in a pot until boiling.\n6. Add tofu, bamboo shoots, and mushrooms and simmer for 5 minutes.\n7. Add the beaten eggs and stir.\n8. Add the cornstarch slurry and stir until the soup thickens.\n9. Add rice vinegar, soy sauce, sesame oil, white pepper, and green onions for flavor.\n10. Serve hot.",
          "rating": 4.2,
