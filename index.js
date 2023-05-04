@@ -10,6 +10,9 @@ const allData = require('./data.json')
 app.get('/data',(req,res)=>{
   res.send(allData)
 })
+app.get('/', (req, res) => {
+  res.send('Dragon is running')
+});
 app.get('/data/:id', (req, res) => {
   const id = req.params.id;
     const selectedData = allData.find(n => n.id == id);
